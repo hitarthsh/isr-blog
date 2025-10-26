@@ -1,0 +1,4 @@
+# Empty GraphQL schema to prevent codegen errors
+type Query {
+  _empty: String
+}
